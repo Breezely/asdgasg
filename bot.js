@@ -3249,5 +3249,5 @@ client.on('guildMemberAdd', member => {
 				
 				
 				
-				
-client.login(process.env.BOT_TAG);
+client.login(process.env.BOT_TOKEN);
+
